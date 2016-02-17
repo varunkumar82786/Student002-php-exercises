@@ -1,5 +1,5 @@
 <?php
-/*this example shows how to use die function when error occurs*/
+/*this example shows how to use exit function when error occurs*/
 
 if(!file_exists("test.php","r")){
 	exit("File Not Found");
