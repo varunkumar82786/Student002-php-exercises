@@ -1,5 +1,5 @@
 <?php
-/*this example shows the first and simpke method of creating an
+/*this example shows the first and simple method of creating an
  * associative array.
  */
 
