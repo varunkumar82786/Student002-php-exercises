@@ -1,6 +1,6 @@
 
 <?php
-/*this example is to create an array and 
+/*this example is to  create an array and 
  recall a specific element of that array*/
 
 $movies = array("Titanic","Godzilla","Avatar","Teminator");
